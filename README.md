@@ -9,7 +9,7 @@
 </div>
 <h1>About me</h1>
 <br /S>
-<p>Hello, I’m Gias, .my core skill is based on javaScript
+<p>Hello, I’m Md Mehedi Hasan Rifat, .my core skill is based on javaScript
 and I love to do most of the things with javaScript.I am Skilled At MERN Stack. I have a strong passion
 for learning & implementing new web technologies and standards. I’m currently studying software engineering at Yunnan University, China.</p>
 
