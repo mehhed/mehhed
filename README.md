@@ -25,7 +25,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 
 
 <br />
-
+<h1>Socials:</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/mehedi-hasan-1864472a4" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Linkedin.png">
