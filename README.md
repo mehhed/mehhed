@@ -30,7 +30,7 @@ for learning & implementing new web technologies and standards. I’m currently 
   <a href="https://www.linkedin.com/in/mehedi-hasan-1864472a4" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Linkedin.png">
   </a>
-  <a href="https://www.facebook.com/dev.rokonroni/" target="_blank">
+  <a href="https://www.facebook.com/mehedihasan.rifat.52056" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Facebook.png">
   </a>
   <a href="https://twitter.com/rokon_roni" target="_blank">
