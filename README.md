@@ -21,13 +21,13 @@ for learning & implementing new web technologies and standards. I’m currently 
 ### 🌱 I’m exploring - Advanced state management techniques in React and diving into Node.js for backend development.
 ### 👯 I’m looking - To connect with fellow developers and explore opportunities for collaborative open source projects.
 ### 🤔  I’m trying - To make a positive impact by using my web development skills to support.
-### ⚡ Fun fact - Outside of coding, I'm a volunteer of Bangladesh Red Crescent Society (BDRCS) a part of the world's largest humanitarian non-governmental organization, The International Red Cross and Red Crescent Movement.
+
 
 
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rokonroni" target="_blank">
+  <a href="www.linkedin.com/in/mehedi-hasan-1864472a4" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Linkedin.png">
   </a>
   <a href="https://www.facebook.com/dev.rokonroni/" target="_blank">
