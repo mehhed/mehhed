@@ -1,10 +1,10 @@
 <a href="https://www.linkedin.com/in/rokonroni/">
 <img src="https://raw.githubusercontent.com/mehhed/mehhed/main/Screenshot%202023-12-09%20144241.png" />
 </a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Md. Rokon Uz Zaman Roni</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Md. Mehedi Hasan Rifat</h1>
 <div align="center">
 <h3  align="center" >
-<a href="https://github.com/rokonroni"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&vCenter=true&random=true&width=500&lines=Front+End+Developer;Web+Developer;MERN+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://github.com/mehhed"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&vCenter=true&random=true&width=500&lines=Front+End+Developer;Web+Developer;MERN+Stack+Developer" alt="Typing SVG" /></a>
 </h3>
 </div>
 
