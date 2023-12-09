@@ -7,6 +7,11 @@
 <a href="https://github.com/mehhed"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&vCenter=true&random=true&width=500&lines=Front+End+Developer;Web+Developer;MERN+Stack+Developer" alt="Typing SVG" /></a>
 </h3>
 </div>
+<h1>About me</h1>
+<br /S>
+<p>Hello, I’m Gias, .my core skill is based on javaScript
+and I love to do most of the things with javaScript.I am Skilled At MERN Stack. I have a strong passion
+for learning & implementing new web technologies and standards. I’m currently studying software engineering at Yunnan University, China.</p>
 
 
 
