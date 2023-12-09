@@ -27,7 +27,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 <br />
 
 <p align="center">
-  <a href="www.linkedin.com/in/mehedi-hasan-1864472a4" target="_blank">
+  <a href="https://www.linkedin.com/in/mehedi-hasan-1864472a4" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Linkedin.png">
   </a>
   <a href="https://www.facebook.com/dev.rokonroni/" target="_blank">
