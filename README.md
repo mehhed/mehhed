@@ -33,7 +33,7 @@ for learning & implementing new web technologies and standards. I’m currently 
   <a href="https://www.facebook.com/mehedihasan.rifat.52056" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Facebook.png">
   </a>
-  <a href="https://twitter.com/rokon_roni" target="_blank">
+  <a href="https://twitter.com/mehedihasan279" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Twitter.png">
   </a>
 </p>
